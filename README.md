@@ -6,7 +6,7 @@ At Zuplo, we're passionate about empowering developers build robust, scalable, a
 
 It's deployed on Zuplo, so you can check out the live demo here:
 
-https://graphlq-example-main-062e49c.zuplo.app/grapqhl
+https://graphlq-example-main-062e49c.zuplo.app/graphql
 
 Checkout the [config/routes.oas.json](./config/routes.oas.json) to learn how to setup GraphQL with Zuplo and the [config/policies.json](./config/policies.json) on how to configure the GraphQL policies.
 
